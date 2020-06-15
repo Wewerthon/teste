@@ -1,0 +1,19 @@
+/* Estilo menu cards */
+
+#carousel-controles, .carousel-inner, .carousel-item {
+    height: 300px;
+}
+
+.carousel-item {
+    background-color: #ccc;
+}
+
+.carousel-item div {
+    height: 270px;
+    color: white;
+}
+
+
+.h-100 {
+    height: 100%!important;
+}
